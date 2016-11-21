@@ -1,0 +1,58 @@
+body
+{
+	background:grey;
+	font-size:20px;
+	font-family:broadway;
+}
+
+.jumbotron
+{
+	background-image:url('jumbo.png');
+	background-attachment:fixed;
+	min-height:250px;
+	
+	
+	
+}
+
+img
+{
+	width:150px;
+	height:150px;
+	
+	
+}
+
+.header
+{
+	
+	text-align:center;
+	color:white;
+}
+
+.row
+{
+	color:white;
+}
+
+p{
+	color:black;
+	
+}
+
+h2
+{
+	color:green;
+}
+.sprite{
+	padding-top:25px;
+}
+h1
+{
+	font-family:anonymous;
+}
+
+.mazza
+{
+	text-align:center;
+}
